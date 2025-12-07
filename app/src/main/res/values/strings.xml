@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SFCS</string>
+
+    <!-- Splash Screen -->
+    <string name="app_title">Secure Field Communication System</string>
+    <string name="app_subtitle">Military-Grade Encrypted Communication</string>
+
+    <!-- Device Discovery -->
+    <string name="scan_devices">Scan Devices</string>
+    <string name="stop_scanning">Stop Scanning</string>
+    <string name="scanning_bluetooth">Scanning for Bluetooth devices…</string>
+    <string name="scanning_wifi">Scanning for Wi-Fi Direct peers…</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="tap_to_scan">Tap the scan button to discover nearby devices</string>
+
+    <!-- Chat Screen -->
+    <string name="type_message">Type encrypted message…</string>
+    <string name="send_message">Send</string>
+    <string name="no_messages">No messages yet</string>
+    <string name="start_conversation">Start a secure conversation</string>
+    <string name="encrypted">End-to-End Encrypted</string>
+    <string name="encryption_algorithm">AES-256-GCM • X25519</string>
+
+    <!-- Connection States -->
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connection_failed">Connection failed</string>
+
+    <!-- Encryption -->
+    <string name="encryption_enabled">E2EE Active</string>
+    <string name="encryption_disabled">Not Encrypted</string>
+
+    <!-- Message Status -->
+    <string name="message_pending">Pending</string>
+    <string name="message_sending">Sending</string>
+    <string name="message_sent">Sent</string>
+    <string name="message_delivered">Delivered</string>
+    <string name="message_read">Read</string>
+    <string name="message_failed">Failed</string>
+
+    <!-- Mesh Network -->
+    <string name="mesh_network">Mesh Network</string>
+    <string name="active_nodes">Active Nodes</string>
+    <string name="hop_count">Hops: %1$d</string>
+
+    <!-- Permissions -->
+    <string name="permission_bluetooth">Bluetooth permission required</string>
+    <string name="permission_location">Location permission required for device discovery</string>
+    <string name="permission_wifi">Wi-Fi permission required</string>
+
+    <!-- Errors -->
+    <string name="error_bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="error_wifi_disabled">Wi-Fi is disabled</string>
+    <string name="error_no_connection">No connection available</string>
+    <string name="error_encryption_failed">Encryption failed</string>
+    <string name="error_decryption_failed">Decryption failed</string>
+
+    <!-- Info -->
+    <string name="research_prototype">Research Prototype - Educational Use Only</string>
+    <string name="military_inspired">Military-Inspired Design</string>
+</resources>

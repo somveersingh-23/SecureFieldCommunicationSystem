@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Cyber/Military Theme -->
+    <color name="cyber_green">#00D4AA</color>
+    <color name="cyber_blue">#0099CC</color>
+    <color name="military_gray">#4A4A62</color>
+
+    <!-- Background Colors -->
+    <color name="dark_background">#0F2027</color>
+    <color name="dark_surface">#1A1A2E</color>
+    <color name="card_background">#2D2D44</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#00FF88</color>
+    <color name="warning_yellow">#FFD700</color>
+    <color name="error_red">#FF4444</color>
+    <color name="info_blue">#4DA6FF</color>
+
+    <!-- Message Bubble Colors -->
+    <color name="sent_message_bubble">#00D4AA</color>
+    <color name="received_message_bubble">#2D2D44</color>
+
+    <!-- Encryption Colors -->
+    <color name="encrypted_green">#00FF88</color>
+    <color name="not_encrypted_red">#FF4444</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#0F2027</color>
+    <color name="gradient_middle">#203A43</color>
+    <color name="gradient_end">#2C5364</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_tertiary">#808080</color>
+
+    <!-- Standard Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
